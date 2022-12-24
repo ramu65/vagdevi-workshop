@@ -8,5 +8,5 @@ while True:
     elif y[i-1]==y[i]:
         x.pop(i-1)
     else:
-        i+=1
+        i+=2
 print(x)
