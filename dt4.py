@@ -10,3 +10,4 @@ while True:
     else:
         i+=2
 print(x)
+print("allowing merge")
