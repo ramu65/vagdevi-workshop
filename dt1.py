@@ -17,7 +17,8 @@ while True:
         x.pop(i-1)
 
     else:
-
+    
         i+=2
 
 print(printing the line at x)
+print(prnting te next line to x)
