@@ -9,4 +9,4 @@ while True:
         x.pop(i-1)
     else:
         i+=2
-print(x)
+print(printing it in next line x)
